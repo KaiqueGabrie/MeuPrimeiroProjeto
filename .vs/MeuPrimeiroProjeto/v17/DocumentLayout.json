@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\MeuPrimeiroProjeto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{07891DB2-4B82-4FAD-A598-CE1D1E53AD78}|MeuPrimeiroProjeto.csproj|c:\\users\\2023202060015\\onedrive - ifro.edu.br\\3 -- periodo\\programa\u00E7\u00E3o orientada a objetos\\meuprimeiroprojeto\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07891DB2-4B82-4FAD-A598-CE1D1E53AD78}|MeuPrimeiroProjeto.csproj|solutionrelative:conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{07891DB2-4B82-4FAD-A598-CE1D1E53AD78}|MeuPrimeiroProjeto.csproj|c:\\users\\2023202060015\\onedrive - ifro.edu.br\\3 -- periodo\\programa\u00E7\u00E3o orientada a objetos\\meuprimeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07891DB2-4B82-4FAD-A598-CE1D1E53AD78}|MeuPrimeiroProjeto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,19 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\MeuPrimeiroProjeto\\Conta.cs",
+              "RelativeDocumentMoniker": "Conta.cs",
+              "ToolTip": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\MeuPrimeiroProjeto\\Conta.cs",
+              "RelativeToolTip": "Conta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:43:09.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\MeuPrimeiroProjeto\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\2023202060015\\OneDrive - ifro.edu.br\\3 -- Periodo\\Programa\u00E7\u00E3o orientada a objetos\\MeuPrimeiroProjeto\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T00:19:14.586Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

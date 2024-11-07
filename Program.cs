@@ -10,7 +10,11 @@ namespace MeuPrimeiroProjeto
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Meu primeiro projeto no github.");
+            Conta c = new Conta();
+
+            Console.WriteLine("Informe o valor do saldo: ");
+            double saldo = double.Parse(Console.ReadLine());
+            c.SetSaldo(saldo);
         }
     }
 }
